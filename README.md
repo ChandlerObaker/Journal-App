@@ -1,8 +1,8 @@
 # Journal-App
+
 Brief description of the project:
 
-This project was about to create an android app which can permit users to write theirs diaries. 
-At my level I conceive it like a numeric intima journal where people can easily write their thoughts (stories, moto, etc.). And also to succeed to make a difference between my app and the other ones I add something called mood. Up to now, there is 6 different moods in the app (happy, angry, love, sad, tired, sick). So a user has the possibility to specify how he feels when writing his thought or what his new diary entry is related to at the level of feelings. And each mood produce a single colour, why? Just to make the app more colourful so that it can succeed to attract young people (14-22 years)
+This project was to create an Android application that could allow users to write their thoughts. At my level, I designed it as a digital diary where people can easily write their thoughts (stories, mottos, words of encouragement, shopping reminders, etc.). And also to make the difference between this application and others, I added something called "mood". So far, there are 6 different moods in the application (happy, angry, love, sad, tired, sick). Thus, a user has the ability to specify how he feels when he writes his thought or what his new entry in the diary is related to the level of feelings. And every mood produces a single color, why? Just to make the application more colorful so that it can attract young people (14-22 years old)
 
 Functionalities implemented:
 
