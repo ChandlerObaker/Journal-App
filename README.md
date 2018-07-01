@@ -21,7 +21,7 @@ I added a splash screen to make the app more convenient for users. Based on one 
 In this architecture I related data by designing two branches (one for the users and one for the diaries). And in the diary branch, the first child is the user id (who own the diaries content in this child branch). Also enable offline capabilities for users to permit them to access data even when they go offline
 
 •	Expresso UI tests :
-We wrote some instrumentation tests for the MainActivity UI especially. You can find it in MainActivityInstrumentedTest.java 
+I wrote some instrumentation tests for the MainActivity UI especially. You can find it in MainActivityInstrumentedTest.java 
 
 •	Android Junit Runner :
 I write some unit tests especially for my utilities class methods. For instance, one for the date format, or my own string wrapper method, etc. You can find it in UtilsUnitTest.java
