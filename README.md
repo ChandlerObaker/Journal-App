@@ -13,6 +13,7 @@ Functionalities implemented:
 5.	Delete a diary
 
 Bonus implemented :
+
 •	Splash screen :
 I added a splash screen to make the app more convenient for users. Based on one they can find in famous social medias like Snapchat or Twitter
 
@@ -24,3 +25,5 @@ We wrote some instrumentation tests for the MainActivity UI especially. You can 
 
 •	Android Junit Runner :
 I write some unit tests especially for my utilities class methods. For instance, one for the date format, or my own string wrapper method, etc. You can find it in UtilsUnitTest.java
+
+I also used Lint Utility to ensure that the app code was well structured based on recommendations and good practices when it comes about android development
