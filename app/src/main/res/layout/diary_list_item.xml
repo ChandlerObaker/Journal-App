@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:paddingTop="8dp">
+
+    <ImageView
+        android:id="@+id/image_mood"
+        android:layout_width="32dp"
+        android:layout_height="32dp"
+        android:background="@color/colorWhite"
+        android:contentDescription="@string/mood_img_content"
+        app:layout_constraintTop_toTopOf="parent"
+        android:layout_marginStart="8dp"
+        app:layout_constraintLeft_toLeftOf="parent" />
+
+    <TextView
+        android:id="@+id/text_message_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="12sp"
+        app:layout_constraintLeft_toRightOf="@+id/image_mood"
+        android:layout_marginStart="8dp"
+        app:layout_constraintTop_toTopOf="parent"
+        android:layout_marginTop="4dp" />
+
+    <TextView
+        android:id="@+id/tv_thought"
+        android:background="@drawable/rounded_happy_diary"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:maxWidth="240dp"
+        android:padding="8dp"
+        android:textColor="@color/colorWhite"
+        android:layout_marginTop="4dp"
+        app:layout_constraintTop_toBottomOf="@+id/text_message_name"
+        app:layout_constraintLeft_toRightOf="@+id/image_mood"
+        android:layout_marginStart="8dp" />
+
+    <TextView
+        android:id="@+id/tv_date"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="12sp"
+        app:layout_constraintLeft_toRightOf="@+id/tv_thought"
+        android:layout_marginStart="4dp"
+        app:layout_constraintBottom_toBottomOf="@+id/tv_thought" />
+
+</android.support.constraint.ConstraintLayout>

@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name" translatable="true">Journal App</string>
+    <string name="action_logout" translatable="true">Sign out</string>
+    <string name="action_update" translatable="true">UPDATE</string>
+    <string name="action_cancel" translatable="true">Cancel</string>
+    <string name="action_delete" translatable="true">DELETE</string>
+    <string name="action_save" translatable="true">SAVE</string>
+    <string name="mood_img_content" translatable="true">Mood emoji</string>
+    <string name="logo_content" translatable="true">Journal App Logo</string>
+    <string name="action_login" translatable="true">Log In or Register through Google</string>
+
+
+
+    <string name="tv_hint_thoughts" translatable="true">Express your thoughts here</string>
+    <string name="title_activity_see_or_update_diary" translatable="true">Diary notes</string>
+
+
+    <string name="title_activity_sign_in" translatable="true">Journal App - Sign in</string>
+
+    <!-- Strings related to login -->
+
+    <string name="success_sign_in_message" translatable="true">Sign in successfully completed</string>
+    <string name="error_updating_entry" translatable="true">Error occurred during process, please try again later</string>
+    <string name="error_invalid_entry" translatable="true">Diary note cannot be empty</string>
+    <string name="success_update_message" translatable="true">Diary updated successfully</string>
+    <string name="success_delete_message" translatable="true">Diary deleted successfully</string>
+    <string name="alert_delete_title" translatable="true">Delete diary</string>
+    <string name="alert_delete_message" translatable="true">Do you want to permanently delete this diary ? \n\n You won\'t be able to recover it anymore</string>
+    <string name="success_add_message" translatable="true">Diary added successfully</string>
+    <string name="firebase_db_diaries" translatable="true">Diaries</string>
+    <string name="firebase_db_users" translatable="true">Users</string>
+
+
+
+</resources>

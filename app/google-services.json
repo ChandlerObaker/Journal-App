@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "329310090904",
+    "firebase_url": "https://journalapp-1529932477929.firebaseio.com",
+    "project_id": "journalapp-1529932477929",
+    "storage_bucket": "journalapp-1529932477929.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:329310090904:android:21e310304ad976db",
+        "android_client_info": {
+          "package_name": "com.chandlerobaker.alcchallenge.android.journalapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "329310090904-iqmspgmm4j0nm783eap1bg9gdpita56q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.chandlerobaker.alcchallenge.android.journalapp",
+            "certificate_hash": "84f650ac9a0898118752ae016ad564085f65ba40"
+          }
+        },
+        {
+          "client_id": "329310090904-191f2qa318j4264m80rnc1qc7ttlmbs3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAG-KPgk70xpyAHPmerQd5d6hWNSfyl2gU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "329310090904-191f2qa318j4264m80rnc1qc7ttlmbs3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
